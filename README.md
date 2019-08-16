@@ -1,2 +1,2 @@
 # grevocabreview
-This repository is to file issues regarding GRE Vocabulary Review app.
+Please report bugs/issues/enhancement through github at https://github.com/ranvirp/grevocabreview/issues
